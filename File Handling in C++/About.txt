@@ -1,0 +1,12 @@
+-----------------
+Author: Neha Pai
+Desc : 
+This project was created in 2012 as a school project to learn file handling techniques in C++.
+
+An simple application which stores users and cars data in text files. 
+Helps to learn how to read, update, modify files using C++. 
+Implements a login facility for Administrator as well as customers. 
+Admins can manage data i.e. Add new Car entry, Update Existing or Delete existing and View cars. 
+Admin can also manage user accounts. 
+Customers can create account, view cars and create their own favorites list of cars.
+-----------------
